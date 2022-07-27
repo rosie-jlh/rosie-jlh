@@ -1,7 +1,5 @@
 👋 Hi, I’m @rosie-jlh.
 
-I'm a second year computing student interested in software engineering.
-
 <!---
 - 👋 Hi, I’m @rosie-jlh
 - 👀 I’m interested in ...
